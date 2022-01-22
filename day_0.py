@@ -1,4 +1,4 @@
-#Day0
+#Day0 Tutorial
 #Write a program to reverse a number in Python?
 #input 123
 #output 321
